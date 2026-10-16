@@ -4,3 +4,7 @@
 !/.gitignore
 !/*.nix
 !/flake.lock
+
+!/README.md
+!/LICENSE
+!/justfile
